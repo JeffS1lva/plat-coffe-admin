@@ -20,7 +20,6 @@ const SEED: StaffMember[] = [
   { id: 's1', name: 'Juliana Prado', email: 'juliana.prado@bole.com', role: 'Administrador', active: true, since: Date.now() - 1000 * 60 * 60 * 24 * 400 },
   { id: 's2', name: 'Marcos Vinícius', email: 'marcos.v@bole.com', role: 'Cozinha', active: true, since: Date.now() - 1000 * 60 * 60 * 24 * 220 },
   { id: 's3', name: 'Bianca Farias', email: 'bianca.farias@bole.com', role: 'Atendente', active: true, since: Date.now() - 1000 * 60 * 60 * 24 * 150 },
-  { id: 's4', name: 'Diego Martins', email: 'diego.martins@bole.com', role: 'Entregador', active: true, since: Date.now() - 1000 * 60 * 60 * 24 * 95 },
   { id: 's5', name: 'Patrícia Gomes', email: 'patricia.gomes@bole.com', role: 'Atendente', active: false, since: Date.now() - 1000 * 60 * 60 * 24 * 260 },
 ];
 
